@@ -2,7 +2,7 @@
 
 This name got stuck with me during my shenanigans in high school. AND I don't mind using it everywhere :P
 
-## I'm a student currently pursuing a B.Tech Degree in Information and Communication Technology
+## Currently pursuing a B.Tech Degree in Information and Communication Technology
 - I try and learn and experiment with things which spark my curiosity.
 - Interested in Data Science as a field.
 - Trying to learn Generative Art.
