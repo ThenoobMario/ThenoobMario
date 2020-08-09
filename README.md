@@ -11,6 +11,10 @@ This name got stuck with me during my shenanigans in high school. AND I don't mi
 ### Connect with me:
 
 [<img align= "left" alt= "Nachiket Soni | Linkedin" width= "22px" src= "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<img align= "left" alt= "Nachiket Soni | Medium" width= "22px" src= "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
+[<img align= "left" alt= "Nachiket Soni | Twitter" width= "22px" src= "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Twitter.svg" />][Twitter]
+[<img align= "left" alt= "Nachiket Soni | Instagram" width= "22px" src= "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Instagram.svg" />][Instagram]
+[<img align= "left" alt= "ThenoobMario | Reddit" width= "22px" src= "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][Reddit]
 
 <br />
 
@@ -19,6 +23,8 @@ This name got stuck with me during my shenanigans in high school. AND I don't mi
 <img align="left" alt="R Programming" width="26px" src="https://www.r-project.org/Rlogo.png" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/150px-ISO_C%2B%2B_Logo.svg.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -37,3 +43,7 @@ This name got stuck with me during my shenanigans in high school. AND I don't mi
 
 
 [Linkedin]: https://www.linkedin.com/in/nachiket-soni-9519021aa/
+[Medium]: https://medium.com/@nachisoni
+[Twitter]: https://twitter.com/NachiCake
+[Instagram]: https://www.instagram.com/nachi_soni/
+[Reddit]: https://www.reddit.com/user/ThenoobMario
