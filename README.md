@@ -12,8 +12,8 @@ This name got stuck with me during my shenanigans in high school. AND I don't mi
 
 [<img align= "left" alt= "Nachiket Soni | Linkedin" width= "22px" src= "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 [<img align= "left" alt= "Nachiket Soni | Medium" width= "22px" src= "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
-[<img align= "left" alt= "Nachiket Soni | Twitter" width= "22px" src= "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Twitter.svg" />][Twitter]
-[<img align= "left" alt= "Nachiket Soni | Instagram" width= "22px" src= "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Instagram.svg" />][Instagram]
+[<img align= "left" alt= "Nachiket Soni | Twitter" width= "22px" src= "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img align= "left" alt= "Nachiket Soni | Instagram" width= "22px" src= "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align= "left" alt= "ThenoobMario | Reddit" width= "22px" src= "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][Reddit]
 
 <br />
