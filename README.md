@@ -26,4 +26,9 @@ This name got stuck with me during my shenanigans in high school. AND I don't mi
 <br />
 <br />
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 [Linkedin]: https://www.linkedin.com/in/nachiket-soni-9519021aa/
