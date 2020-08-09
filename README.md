@@ -26,9 +26,9 @@ This name got stuck with me during my shenanigans in high school. AND I don't mi
 <br />
 <br />
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
+
+[![ThenoobMario's github stats](https://github-readme-stats.vercel.app/api?username=ThenoobMario)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [Linkedin]: https://www.linkedin.com/in/nachiket-soni-9519021aa/
