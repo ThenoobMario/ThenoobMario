@@ -5,7 +5,7 @@ This name got stuck with me during my shenanigans in high school. AND I don't mi
 ## Currently pursuing a B.Tech Degree in Information and Communication Technology
 - I try and learn and experiment with things which spark my curiosity.
 - Interested in Data Science as a field.
-- Trying to learn Generative Art.
+- Interested in Low level Hardware Programming.
 - Trying to contribute to Open Source projects.
 
 ### Connect with me:
