@@ -12,7 +12,6 @@ This name got stuck with me during my shenanigans in high school. AND I don't mi
 
 [<img align= "left" alt= "Nachiket Soni | Linkedin" width= "22px" src= "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 [<img align= "left" alt= "Nachiket Soni | Medium" width= "22px" src= "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
-[<img align= "left" alt= "Nachiket Soni | Twitter" width= "22px" src= "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 [<img align= "left" alt= "Nachiket Soni | Instagram" width= "22px" src= "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align= "left" alt= "ThenoobMario | Reddit" width= "22px" src= "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][Reddit]
 
@@ -44,6 +43,5 @@ This name got stuck with me during my shenanigans in high school. AND I don't mi
 
 [Linkedin]: https://www.linkedin.com/in/nachiket-soni-9519021aa/
 [Medium]: https://medium.com/@nachisoni
-[Twitter]: https://twitter.com/NachiCake
 [Instagram]: https://www.instagram.com/nachi_soni/
 [Reddit]: https://www.reddit.com/user/ThenoobMario
