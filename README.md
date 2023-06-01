@@ -2,7 +2,7 @@
 
 This name got stuck with me during my shenanigans in high school. AND I don't mind using it everywhere :P
 
-## Currently pursuing a B.Tech Degree in Information and Communication Technology
+## B.Tech Graduate in Information and Communication Technology
 - I try and learn and experiment with things which spark my curiosity.
 - Interested in Data Science as a field.
 - Interested in Low level Hardware Programming.
@@ -13,7 +13,6 @@ This name got stuck with me during my shenanigans in high school. AND I don't mi
 [<img align= "left" alt= "Nachiket Soni | Linkedin" width= "22px" src= "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 [<img align= "left" alt= "Nachiket Soni | Medium" width= "22px" src= "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][Medium]
 [<img align= "left" alt= "Nachiket Soni | Instagram" width= "22px" src= "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-[<img align= "left" alt= "ThenoobMario | Reddit" width= "22px" src= "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][Reddit]
 
 <br />
 
@@ -44,4 +43,3 @@ This name got stuck with me during my shenanigans in high school. AND I don't mi
 [Linkedin]: https://www.linkedin.com/in/nachiket-soni-9519021aa/
 [Medium]: https://medium.com/@nachisoni
 [Instagram]: https://www.instagram.com/nachi_soni/
-[Reddit]: https://www.reddit.com/user/ThenoobMario
